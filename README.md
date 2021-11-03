@@ -4,3 +4,5 @@
 >
 >Rafael Lozano-Hemmer’s Atmospheric Memory scours the sky for the voices of our past.
 
+I initially discovered Atmospheric Memory when it was commissioned at the Manchester International festival in July 2019. 
+
