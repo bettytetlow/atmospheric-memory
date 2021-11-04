@@ -132,3 +132,7 @@ Drone video sequence from Atmospheric Memory Chamber.
 
 The full text of the collected works of Charles Babbage and Ada Lovelace turned into a stream of letters.
 
+## Reflection ##
+
+To conclude, I initially thought that I wouldn’t like this project as I am *really* not a fan of coding and complex computer things. However I approached it with an open mind and much to my surprise I have really enjoyed it. It’s a lot less about the computer coding and much more about using these elements combined with design to create an outcome that showcases technology as art. Throughout my research, I have developed an even keener interest in Creative Computing used for exhibitions, installations and immersive spaces. I have always loved this aspect of design and have always been drawn to it so it has been very interesting learning about some of the processes behind the art. 
+
