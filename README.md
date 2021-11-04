@@ -46,7 +46,7 @@ Atmospheric Memory was commissioned by Manchester International Festival and the
 
 ******
 
-#### Full Breakdown of the Atmospheric Memory Artworks and Atmospheres displayed inside the Atmospehric Memory Chamber ####
+#### Full Breakdown of the Atmospheric Memory Artworks and Atmospheres displayed inside the Atmospheric Memory Chamber ####
 
 **[Atmosphonia](https://youtu.be/lcs5TpfvSMw)**
 
